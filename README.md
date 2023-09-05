@@ -1,2 +1,2 @@
 # webpack-starter
-# Boilerplate for creating apps with Webpack
+Boilerplate for creating apps with Webpack
